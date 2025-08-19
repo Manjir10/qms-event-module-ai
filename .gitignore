@@ -1,0 +1,14 @@
+# root
+.DS_Store
+.env
+qms.db
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# node (frontend)
+frontend/node_modules/
+frontend/.env
+frontend/dist/
